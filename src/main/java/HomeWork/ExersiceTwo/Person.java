@@ -1,4 +1,4 @@
-package src.main.java.HomeWork.ExersiceTwo;
+package HomeWork.ExersiceTwo;
 
 public class Person {
     private String name;

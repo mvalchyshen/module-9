@@ -4,7 +4,7 @@ import java.io.*;
 
 
 public class ValidPhoneNumber {
-    private String regOne = "[0-9]{3}-[0-9]{3}-[0-9]{4}";
+/*    private String regOne = "[0-9]{3}-[0-9]{3}-[0-9]{4}";
     private String regTwo = "^\\(\\d{3}\\)\\s\\d{3}-\\d{4}$";
 
 
@@ -39,5 +39,5 @@ public class ValidPhoneNumber {
         } catch (IOException e) {
            System.err.println(e.getMessage());
         }
-    }
+    }*/
 }

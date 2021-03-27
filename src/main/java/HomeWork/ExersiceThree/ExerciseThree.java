@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.*;
 
 public class ExerciseThree {
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         new ExerciseThree("src\\main\\resources\\Module9Ex3\\words.txt");
     }
 
@@ -77,5 +77,5 @@ public class ExerciseThree {
         for (Map.Entry<String, Integer> entry : sortedList) {
             System.out.println(entry.getKey() + " " +entry.getValue());
         }
-    }
+    }*/
 }
